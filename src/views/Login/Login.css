@@ -1,0 +1,46 @@
+.login-page{
+    max-width:450px; 
+    background: #fff;
+   
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+
+    border-radius: 6px;
+    margin: 120px auto auto auto;
+}
+.login-page-inner{
+    padding: 30px 10px; 
+}
+.button-color{
+    background: linear-gradient(60deg, #ab47bc, #8e24aa);
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0,.14), 0 7px 10px -5px rgba(156, 39, 176,.4);
+    color: #fff;
+    border: 0px;
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.login-page .MuiFormControl-root{ margin: 5px;}
+.center-text{
+    text-align: center;
+}
+button {
+    margin: 10px;
+}
+.logo{ width: 100px;}
+.login-page h3{
+    background: linear-gradient(60deg, #ab47bc, #8e24aa);
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0,.14), 0 7px 10px -5px rgba(156, 39, 176,.4);
+    padding: 15px 20px;
+    color: #fff;
+    font-size: 22px;
+    margin: 0px 10px;
+    position: relative;
+    top: -12px;
+    border-radius: 5px;
+}
+.required-field {
+    margin-top:-15px;
+    font-size: 0.75em;
+    color: #f00;
+}
